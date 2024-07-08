@@ -38,7 +38,7 @@ node cliente.js
 
 ## Ejecución Android
 Para la ejecución de la aplicación Android basta con clonar el proyecto y ejecutarlo desde AndroidStudio en emulador o un dispositivo Android conectado.
-
+https://github.com/guisa17/CC4P1-EF-Android
 
 ### Nota
 Asegurarse que los servidores y clientes se encuentren en la misma red y que las direcciones IP sean correctas.
